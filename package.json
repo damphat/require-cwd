@@ -1,12 +1,12 @@
 {
   "name": "require-cwd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Load locally-installed packages from a globally-installed package",
   "main": "index.js",
   "author": "damphat",
   "license": "MIT",
   "scripts": {
-    "test": "node test.js"
+    "test": "mocha"
   },
   "dependencies": {
     "resolve": "*"
