@@ -2,7 +2,6 @@ var requireCwd = require('../');
 
 describe('require-cwd', function(){
   it('should be a function', function(done){
-    console.log('log:', typeof requireCwd);
     if(typeof requireCwd === 'function') {
       done();
     } else {
