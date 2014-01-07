@@ -1,4 +1,4 @@
-require-cwd
+require-cwd [![Build Status](https://travis-ci.org/damphat/require-cwd.png?branch=master)](https://travis-ci.org/damphat/require-cwd)
 ===========
 
 Load locally-installed packages from a globally-installed package
