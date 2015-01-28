@@ -1,6 +1,8 @@
 require-cwd [![Build Status](https://travis-ci.org/damphat/require-cwd.png?branch=master)](https://travis-ci.org/damphat/require-cwd)
 ===========
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/damphat/require-cwd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Load locally-installed packages from a globally-installed package
 
 Install
