@@ -1,17 +1,17 @@
-require-cwd [![Build Status](https://travis-ci.org/damphat/require-cwd.png?branch=master)](https://travis-ci.org/damphat/require-cwd)
-===========
+## require-cwd
+
+[![Build Status](https://travis-ci.org/damphat/require-cwd.png?branch=master)](https://travis-ci.org/damphat/require-cwd)
+![Node.js CI](https://github.com/damphat/require-cwd/workflows/Node.js%20CI/badge.svg)
 
 Load locally-installed packages from a globally-installed package
 
-Install
------------
+## Install
 ```
 npm install require-cwd
 ```
 
-Usage
------------
-```
+## Usage
+```js
 // FILE: global-tool.js
 
 var require_cwd = require('require-cwd');
