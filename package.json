@@ -27,8 +27,5 @@
   "homepage": "https://github.com/damphat/require-cwd",
   "devDependencies": {
     "mocha": "^8.1.1"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
