@@ -1,15 +1,15 @@
 {
   "name": "require-cwd",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Load locally-installed packages from a globally-installed package",
   "main": "index.js",
-  "author": "damphat",
+  "author": "Phat <damphat@gmail.com>",
   "license": "MIT",
   "scripts": {
     "test": "mocha"
   },
   "dependencies": {
-    "resolve": "*"
+    "resolve": "^1.17.0"
   },
   "repository": {
     "type": "git",
@@ -18,11 +18,14 @@
   "keywords": [
     "require",
     "local",
-	"cwd",
+    "cwd",
     "package"
   ],
   "bugs": {
     "url": "https://github.com/damphat/require-cwd/issues"
   },
-  "homepage": "https://github.com/damphat/require-cwd"
+  "homepage": "https://github.com/damphat/require-cwd",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
 }
