@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/damphat/require-cwd",
   "devDependencies": {
-    "mocha": "^9.0.3"
+    "mocha": "^10.2.0"
   }
 }
